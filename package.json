@@ -1,0 +1,17 @@
+{
+  "name": "hamlet-discord",
+  "version": "1.0.0",
+  "description": "Hamlet plays on Discord",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Joris van de Donk",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^10.0.1",
+    "lodash": "^4.17.2",
+    "node-fetch": "^1.6.3",
+    "q": "^1.4.1"
+  }
+}
